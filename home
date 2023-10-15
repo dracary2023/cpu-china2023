@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="img/logo.png">
+    <link rel="stylesheet" href="css/home_content.css">
+    <link rel="stylesheet" href="css/foot.css">
+    <title>
+     Home
+    </title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/theme.css" rel="stylesheet">
+    <link href="css/bootstrap-reset.css" rel="stylesheet">
+
+    <!--external css-->
+    <link href="assets/font-awesome/css/font-awesome.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/flexslider.css"/>
+    <link href="assets/bxslider/jquery.bxslider.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="assets/owlcarousel/owl.carousel.css">
+    <link rel="stylesheet" href="assets/owlcarousel/owl.theme.css">
+
+    <link href="css/superfish.css" rel="stylesheet" media="screen">
+
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/component.css">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-responsive.css" rel="stylesheet" />
+
+    <script src="js/jquery.smoove.min.js"></script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 tooltipss and media queries -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js">
+    </script>
+
+
+    <![endif]-->
+  </head>
+
+  <body>
+    <!--header start-->
+    <header class="head-section">
+      <div class="navbar navbar-default navbar-static-top container" >
+          <div class="navbar-header">
+              <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.html">CPU<span>-CHINA</span></a>
+          </div>
+          <div class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                  <li class="dropdown">
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="index.html">Home
+                      </a>
+                  </li>
+                  <li class="dropdown">
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="#">Team <i class="fa fa-angle-down"></i>
+                      </a>
+                      <ul class="dropdown-menu">
+                          <li>
+                              <a href="typography.html">Member</a>
+                          </li>
+                          <li>
+                              <a href="#">Attributions</a>
+                          </li>
+
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="#">Project <i class="fa fa-angle-down"></i>
+                      </a>
+                      <ul class="dropdown-menu">
+                        <li>
+                            <a href="#">Contribution</a>
+                          </li>
+                          <li>
+                              <a href="#">Description</a>
+                          </li>
+                          <li>
+                              <a href="#">Engineering</a>
+                          </li>
+                          <li>
+                              <a href="#">Experiments</a>
+                          </li>
+                          <li>
+                              <a href="#">Notebook</a>
+                          </li>
+                          <li>
+                              <a href="#">Results</a>
+                          </li>
+                          <li>
+                              <a href="#">Hardware</a>
+                          </li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="#">Safety <i class="fa fa-angle-down"></i>
+                      </a>
+                        <ul class="dropdown-menu">
+                          <li>
+                              <a href="typography.html">Laboratory safety</a>
+                          </li>
+                          <li>
+                              <a href="#">Security</a>
+                          </li>
+
+                      </ul>
+                  </li>
+                  <li>
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="#">Model
+                      </a>
+                      <ul class="dropdown-menu">
+                          <li>
+                              <a href="typography.html">Summary</a>
+                          </li>
+                            <li>
+                              <a href="typography.html">Model</a>
+                          </li>
+                           <li>
+                              <a href="typography.html">Bioinformatics</a>
+                          </li>
+                          <li>
+                              <a href="typography.html">Rational design</a>
+                          </li>
+                          <li>
+                              <a href="typography.html">Screening</a>
+                          </li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a class="dropdown-toggle" data-close-others="false" data-delay="0" data-hover=
+                      "dropdown" data-toggle="dropdown" href="#">Human Practices
+                      </a>
+                  </li>
+
+<!--                  <li><input class="form-control search" placeholder=" Search" type="text"></li>-->
+              </ul>
+          </div>
+      </div>
+    </header>
+    <div class="back-g" >
+        <video controls autoplay muted playsinline loop>
+            <source src="img/PVwiki.mp4" type="video/mp4" >
+        </video>
+    </div>
+
+    <div class="content">
+        <div class="col-lg-3 col-sm-3 address wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".1s">
+            <p>Colorectal cancer(CRC) is a malignant tumor, ranking as the second most common cancer in the world. <br>It has claimed many lives and left many families penniless.</p>
+            <img src="img/1.1.png" alt="">
+        </div>
+        <div class="col-lg-3 col-sm-3 address wow fadeInRight" data-wow-duration="2s" data-wow-delay=".1s">
+            <p>Despite numerous treatments, the clinical needs are still far to be met, <br> So new solution is in an urgent need.</p>
+            <img src="img/1.2.png" alt="">
+            <p></p>
+        </div>
+
+        <div class="col-lg-3 col-sm-3 address wow bounceInLeft" data-wow-duration="2s" data-wow-delay=".1s">
+            <p>CRC onset is deeply intertwined with the gut microbiome. Among all intestinal bacteria, Fusobacterium nucleatum (Fn) stands out as a key culprit.</p>
+            <img src="img/3.png" alt="">
+            <p>It is attached to cancer cells and colonizes in colon, which greatly influences tumor growth, metastasis and immune escape. </p>
+        </div>
+
+         <div class="col-lg-3 col-sm-3 address wow bounceInRight" data-wow-duration="2s" data-wow-delay=".1s">
+
+            <img src="img/4无框.png" alt="">
+             <p>Although antibiotics can effectively clear Fn and help tumor regression, antibiotic resistance is inevitable.</p>
+             <img src="img/5.png" alt="" id="img2">
+         </div>
+</div>
+    <div class="pic-box">
+
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/1.png" alt="">
+        </div>
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/2.png" alt="">
+        </div>
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/3.png" alt="">
+        </div>
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/4.png" alt="">
+        </div>
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/5.png" alt="">
+        </div>
+    <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/6.png" alt="">
+        </div>
+        <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/7.png" alt="">
+        </div>
+        <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/7.png" alt="">
+        </div>
+        <div class="col-lg-3 col-sm-3 address wow bounceInDown" data-wow-duration="2s" data-wow-delay=".1s">
+            <img src="img/胶卷/6.4.png" alt="">
+        </div>
+
+    </div>
+
+
+    <div class="rabbit-words">
+        <div class="col-lg-3 col-sm-3 address wow slideInLeft" id="rabbit-1">
+            <p>Hence,we sets sight on antimicrobial peptides, which are less prone to resistance.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>We chose LL37, from the terminal antimicrobial region of human cationic antimicrobial protein 18（hCAP18）, as our candidate killing peptide.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>Don't underestimate it, it has the ability to kill both Fn and CRC, which perfectly fits our therapeutic goal.</p>
+        </div>
+
+        <div class="col-lg-3 col-sm-3 address wow slideInRight" id="rabbit-2">
+            <p>We further modified it to obtain a shorter and more compact double killing peptide.</p>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <p>As a peptide, it is easy to be expressed with engineered bacteria using synthetic biology methods, and it became the best choice for killing Fn and treating CRC.</p>
+
+        </div>
+
+    </div>
+
+    <div class="content">
+        <div class="col-lg-3 col-sm-3 address wow fadeInLeft" data-wow-duration="2s" data-wow-delay=".1s">
+        <p>We also aim for a double victory, namely, efficiently targeting both tumor cells</p>
+        <img src="img/8.png" alt="">
+
+    </div>
+
+    <div class="col-lg-3 col-sm-3 address wow fadeInRight" data-wow-duration="2s" data-wow-delay=".1s" id="right-2">
+            <p>And pathogen and killing them at the same time.</p>
+        <div class="last-pic">
+            <img src="img/p8图1.png" alt="" id="last-1">
+            <img src="img/p8图2.png" alt="" id="last-2">
+        </div>
+    </div>
+    </div>
+
+    <!--footer start-->
+    <div style="padding-right: 4.5%" class="sponsor">
+        <div id="left">
+            <img src="img/logo.png" alt="" >
+        </div>
+        <div id="middle">
+            <p id="first">contact us</p>
+            <div id="contact">
+                <a href="mailto:hhqlela@163.com"><svg xmlns="http://www.w3.org/2000/svg" viewBox="-100 -100 800 800" id="email">
+                    <path d="M249.8 437.5c-55.3 0-110.6-.1-165.8 0-28.4 0-51.5-10.6-68.5-33.4C5.9 391.2.4 376.4.2 360.3L0 253.8.1 143.4c.3-38.4 26-70.9 62.5-78.8 6.5-1.4 13.2-2.1 19.8-2.1h335c42.5.1 74.9 27.8 81.7 69.2.7 4.4.8 8.8.8 13.3v210.3c-.1 39.6-25.4 72-62.8 80.2-7.3 1.6-15 2.1-22.6 2.1l-164.7-.1zm0-24.3h167.5c34.1-.1 58.1-23.8 58.2-57.9V144.5c-.1-34.1-24-57.8-58.2-57.9-111.7-.1-223.3-.1-335 0-33.8 0-57.8 23.9-57.9 57.6l.1 211.4c0 6 .8 12.3 2.5 18 7.5 24.6 28.6 39.5 55.3 39.6h167.5zm56-142.8c-5.9 6.3-11.2 12.3-16.8 17.9l-28.4 27.6c-7.8 7.5-13.6 7.5-21.5-.1L198.3 276c-1.4-1.4-2.9-2.6-4.7-4.3l-8.9 8.3-96 91.2c-1.3 1.2-2.6 2.5-4 3.6-6.3 5-12.9 4.7-17.9-.8-4.7-5.1-4.2-11.6 1.7-17.2l107.6-102c-1.8-1.9-3.3-3.6-4.9-5.1l-101.3-99c-1.7-1.6-3.4-3.3-4.9-5-3.9-4.6-3.9-10.4 0-14.8 4.5-5.2 10.8-6.3 16-2.6 1.9 1.3 3.6 3 5.3 4.6l158.6 154.5c5.1 5 5.2 5 10.1.1L413.6 133c1.2-1.1 2.3-2.3 3.6-3.3 6-5 12.3-4.7 17.3.7 4.8 5.2 4.6 11.3-.9 16.8l-27.5 27-77.7 75.8c-1.3 1.2-2.4 2.6-3.9 4.2 1.5 1.5 2.6 2.9 3.9 4.1l102.8 97.4c8 7.6 7.9 15.7-.1 20.8-5.3 3.4-10.2 2.8-15.7-2.3-9.6-8.8-19-17.9-28.4-26.8L311.9 276c-1.5-1.6-3.2-3-6.1-5.6z"></path>
+                </svg></a>
+                <a href="https://b23.tv/sLgLzvQ"><svg xmlns="http://www.w3.org/2000/svg" id="bilibili" xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="40 20 180 180" fill="none">
+        <defs>
+            <rect id="path_0" x="0" y="0" width="200" height="200" />
+        </defs>
+        <g opacity="1" transform="translate(0 0)  rotate(0 100 100)">
+            <rect  opacity="1" transform="translate(0 0)  rotate(0 100 100)" x="0" y="0" width="200"
+                height="200" rx="0" />
+            <mask id="bg-mask-0" fill="white">
+                <use xlink:href="#path_0"></use>
+            </mask>
+            <g mask="url(#bg-mask-0)">
+                <path id="矩形 1" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(53 71)  rotate(0 54.5 31.5)" opacity="1"
+                    d="M101,63C105.42,63 109,59.42 109,55L109,8C109,3.58 105.42,0 101,0L8,0C3.58,0 0,3.58 0,8L0,55C0,59.42 3.58,63 8,63L101,63Z " />
+                <path id="矩形 2" fill-rule="evenodd" style="fill:#fff2e2" transform="translate(62 80)  rotate(0 45.5 23)"
+                    opacity="1"
+                    d="M84,46C87.87,46 91,42.87 91,39L91,7C91,3.13 87.87,0 84,0L7,0C3.13,0 0,3.13 0,7L0,39C0,42.87 3.13,46 7,46L84,46Z " />
+                <g id="eyes">
+                    <path id="矩形 3" fill-rule="evenodd" style="fill:#000000"
+                        transform="translate(115.44 93.17)  rotate(21.773781106903954 12.250000000000014 3.5)" opacity="1"
+                        d="M0,7L24.5,7L24.5,0L0,0L0,7Z " />
+                    <path id="矩形 3" fill-rule="evenodd" style="fill:#000000"
+                        transform="translate(74 93)  rotate(-21.055584528404097 12.250000000000014 3.5)" opacity="1"
+                        d="M0,7L24.5,7L24.5,0L0,0L0,7Z " />
+                </g>
+                <path id="矩形 3" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(69.95 61.32)  rotate(-139.72191892004938 16 2.722050983934175)" opacity="1"
+                    d="M32 2.72C32 1.22 30.78 0 29.28 0L2.72 0C1.22 0 0 1.22 0 2.72C0 4.22 1.22 5.44 2.72 5.44L29.28 5.44C30.78 5.44 32 4.22 32 2.72Z" />
+                <path id="矩形 3" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(105.47 61.48)  rotate(317.2006987866337 16 2.769476928341394)" opacity="1"
+                    d="M32 2.77C32 2.04 31.71 1.33 31.19 0.81C30.67 0.29 29.96 0 29.23 0L2.77 0C2.04 0 1.33 0.29 0.81 0.81C0.29 1.33 0 2.04 0 2.77C0 3.5 0.29 4.21 0.81 4.73C1.33 5.25 2.04 5.54 2.77 5.54L29.23 5.54C29.96 5.54 30.67 5.25 31.19 4.73C31.71 4.21 32 3.5 32 2.77Z" />
+                <path id="圆形 1" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(77 128)  rotate(0 6.5 6.5)" opacity="1"
+                    d="M6.5,0C2.91,0 0,2.91 0,6.5C0,10.09 2.91,13 6.5,13C10.09,13 13,10.09 13,6.5C13,2.91 10.09,0 6.5,0Z " />
+                <path id="圆形 1" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(128 128)  rotate(0 6.5 6.5)" opacity="1"
+                    d="M6.5,0C2.91,0 0,2.91 0,6.5C0,10.09 2.91,13 6.5,13C10.09,13 13,10.09 13,6.5C13,2.91 10.09,0 6.5,0Z " />
+                <path id="路径 1 (轮廓)" fill-rule="evenodd" style="fill:#000000"
+                    transform="translate(88.47135 109.90940930659056)  rotate(0 20.176525000000005 3.9783235807127397)"
+                    opacity="1"
+                    d="M21.57,0.42C21.52,0.37 21.47,0.33 21.41,0.28C21.36,0.24 21.3,0.21 21.23,0.17C21.17,0.14 21.11,0.11 21.04,0.09C20.98,0.06 20.91,0.05 20.84,0.03C20.77,0.02 20.7,0.01 20.63,0C20.56,0 20.49,0 20.42,0C20.35,0.01 20.28,0.02 20.21,0.03C18.89,0.32 17.68,0.77 16.59,1.37C16.16,1.6 15.72,1.87 15.28,2.18C15.02,2.35 14.67,2.61 14.22,2.95C13.71,3.34 13.33,3.61 13.09,3.76C12.73,3.99 12.39,4.16 12.06,4.27C11.29,4.54 10.49,4.7 9.67,4.73C8.83,4.77 7.98,4.69 7.14,4.48C5.31,4.03 3.63,3.05 2.13,1.53L0,3.65C0.96,4.61 1.99,5.41 3.09,6.05C4.16,6.66 5.27,7.11 6.43,7.4C7.55,7.67 8.68,7.78 9.81,7.73C10.92,7.68 12,7.47 13.05,7.11C13.59,6.92 14.14,6.65 14.7,6.29C15.01,6.1 15.46,5.78 16.03,5.34C16.45,5.03 16.77,4.8 16.99,4.64C17.34,4.39 17.69,4.18 18.02,4C18.64,3.66 19.3,3.39 20.02,3.18C20.29,3.46 20.58,3.73 20.89,4C22.18,5.15 23.59,6.06 25.12,6.73C27.27,7.68 29.51,8.08 31.81,7.92C34.65,7.73 37.5,6.71 40.35,4.85L38.71,2.33C36.3,3.91 33.93,4.78 31.61,4.93C29.8,5.05 28.03,4.74 26.33,3.98C25.09,3.44 23.94,2.7 22.88,1.76C22.55,1.47 22.25,1.17 21.98,0.88C21.86,0.75 21.77,0.64 21.72,0.58C21.67,0.52 21.62,0.47 21.57,0.42Z " />
+            </g>
+        </g>
+    </svg></a>
+            </div>
+            <p><span>Address:</span>#639 Longmian Dadao, Jiangning District, Nanjing, P.R.China</p>
+            <br>
+            <p><span>Code:</span>&nbsp&nbsp&nbsp&nbsp211198</p>
+        </div>
+        <div id="right">
+            <img src="img/special%20thank.png" alt="" >
+        </div>
+
+    </div>
+
+
+    <script src="js/jquery-1.8.3.min.js">
+    </script>
+    <script src="js/bootstrap.min.js">
+    </script>
+    <script type="text/javascript" src="js/hover-dropdown.js">
+    </script>
+    <script defer src="js/jquery.flexslider.js">
+    </script>
+    <script type="text/javascript" src="assets/bxslider/jquery.bxslider.js">
+    </script>
+
+    <script type="text/javascript" src="js/jquery.parallax-1.1.3.js">
+    </script>
+    <script src="js/wow.min.js">
+    </script>
+    <script src="assets/owlcarousel/owl.carousel.js">
+    </script>
+
+    <script src="js/jquery.easing.min.js">
+    </script>
+    <script src="js/link-hover.js">
+    </script>
+    <script src="js/superfish.js">
+    </script>
+    <script type="text/javascript" src="js/parallax-slider/jquery.cslider.js">
+    </script>
+    <script type="text/javascript">
+      $(function() {
+
+        $('#da-slider').cslider({
+          autoplay    : true,
+          bgincrement : 100
+        });
+
+      });
+    </script>
+
+
+
+    <!--common script for all pages-->
+    <script src="js/common-scripts.js">
+    </script>
+
+    <script type="text/javascript">
+      jQuery(document).ready(function() {
+
+
+        $('.bxslider1').bxSlider({
+          minSlides: 5,
+          maxSlides: 6,
+          slideWidth: 360,
+          slideMargin: 2,
+          moveSlides: 1,
+          responsive: true,
+          nextSelector: '#slider-next',
+          prevSelector: '#slider-prev',
+          nextText: 'Onward →',
+          prevText: '← Go back'
+        });
+
+      });
+
+
+    </script>
+
+
+    <script>
+      $('a.info').tooltip();
+
+      $(window).load(function() {
+        $('.flexslider').flexslider({
+          animation: "slide",
+          start: function(slider) {
+            $('body').removeClass('loading');
+          }
+        });
+      });
+
+      $(document).ready(function() {
+
+        $("#owl-demo").owlCarousel({
+
+          items : 4
+
+        });
+
+      });
+
+      jQuery(document).ready(function(){
+        jQuery('ul.superfish').superfish();
+      });
+
+      new WOW().init();
+
+
+    </script>
+  </body>
+</html>
